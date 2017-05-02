@@ -5,10 +5,13 @@
 * * *
 
 # 1. 응용 프로그램
+## C
+#### GakView based on GTK3
+<a href="https://github.com/Gakgu/GakView/tree/7b5ea9bdee1cd0f2e6c89a8559acdeb44c163575">소스보기</a>
+
 ## C++
-#### GakView
-gtk3 기반의 GakView
-sdl2 기반의 GakView
+#### GakView based on SDL2
+<a href="https://github.com/Gakgu/GakView.git">소스보기</a>
 
 ## Python
 최근들어서 재미들린 언어입니다.
@@ -24,11 +27,15 @@ memo.css - 메모의 모양을 설정하는 스타일시트 파일
 
 제작기간 : 2시간  
 
+<a href="https://gist.github.com/Gakgu/268384e67241b2ddd8b0c42ea4949797">소스보기</a>
+
 #### 바탕화면 부수기
 <img src="./image/background_breaker.gif" width="300"><br>
 어린 시절 재미있게 했던 바탕화면 부수기입니다.
 
 제작기간 : 1시간
+
+<a href="https://gist.github.com/Gakgu/4ed041dad46631483d6147d39ede9227">소스보기</a>
 
 ## Etc
 <img src="./image/tamagotchi.png" height="150" width="150"><img src="./image/young_prince.gif" height="150" width="150"><br>
