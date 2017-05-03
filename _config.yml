@@ -17,7 +17,7 @@ title: Hello World
 description: > # this means to ignore newlines until "baseurl:"
   반갑습니다! 저는 취업준비생 임덕균입니다.
   이 페이지는 제가 만들어보거나 시도해봤던
-  응용 프로그램들에 대해 설명합니다.
+  **가시적인** 응용 프로그램들을 소개합니다.
 github_username: Gakgu
 
 # Build settings
