@@ -13,11 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hello World
+title: 임덕균
 description: > # this means to ignore newlines until "baseurl:"
-  반갑습니다! 저는 취업준비생 임덕균입니다.
-  이 페이지는 제가 만들어보거나 시도해봤던
-  **가시적인** 응용 프로그램들을 소개합니다.
+  신입 프로그래머를 지망하는 취업준비생입니다!
 github_username: Gakgu
 
 # Build settings
