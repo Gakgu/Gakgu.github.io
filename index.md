@@ -14,7 +14,7 @@
 
 ## C++
 #### GakView based on SDL2
-<img src="./image/GakView_uml.png" width="300"><br>
+<img src="./image/GakView_uml.png"><br>
 c언어와 GTK3 라이브러리 기반으로 만들었던 뷰어에 한계를 느끼고 새로 만든
 뷰어입니다. 이전보다 더 low-level에서 작동하기 때문에 더 빠르며 시스템
 친화적입니다. 게다가 코드가 C++로 구조적으로 짜여있어 유지 보수하기 쉽습니다.
