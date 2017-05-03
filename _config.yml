@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 임덕균
 description: > # this means to ignore newlines until "baseurl:"
-  신입 프로그래머를 지망하는 취업준비생입니다!
+  신입 프로그래머를 지망하는 취업준비생
 github_username: Gakgu
 
 # Build settings
