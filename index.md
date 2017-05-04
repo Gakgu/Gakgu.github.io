@@ -100,5 +100,24 @@ nasm문법과 하드웨어 공부를 병행하며 만들었기 때문에 제작�
 ***
 
 # 5. Etc
+## 5.1 Fire Detector
+<img src="./image/fire_detector_1.gif" height="200"><img src="./image/fire_detector_2.gif" height="200"><br>
+**설명**  
+센서에서 화재를 감지하면 알림을 띄워주는 어플리케이션입니다.  
+tcp/ip로 연결했기 때문에 거리에 제한이 없습니다.  
+팀 프로젝트로 만든 졸업작품입니다.  
+
+**맡은 역할**  
+- 아두이노와 중앙서버, 중앙서버와 어플리케이션의 연결을 담당했습니다.
+- 구글의 Firebase Cloud Messagin기능을 이용하여 팝업창을 띄우는 것을 만들었습니다.
+- ndk를 이용하여 자바로 만들어진 어플에 c언어로 만들어진 서버를 이식했습니다.
+- 솔직히 UI 빼고 제가 다 만들었습니다..
+
+**제작기간**  
+주어진 시간은 1년이었지만 실질적으로 만든 것은 2주 안팎이었습니다.
+
+## 5.2 Unity Games
+
+## 5.3
 <img src="./image/tamagotchi.png" height="150" width="150"><img src="./image/young_prince.gif" height="150" width="150"><br>
 Qt를 처음 접할 때 만들어본 것들입니다. 이 중 어린왕자는 C++로 제작되었습니다.
