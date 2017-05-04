@@ -7,10 +7,11 @@
 # C
 ### GakView based on GTK3
 <img src="./image/GakView_gtk3.gif"><br>
+**설명**
 크로스 플랫폼 이미지 뷰어입니다.  
 작고 빠르며 여러 플랫폼에서 동일하게 작동하는 이미지 뷰어를 목표로 한 프로그램입니다.
 
-제작기간 : 2주
+**제작기간** : 2주
 
 <a href="https://github.com/Gakgu/GakView/tree/7b5ea9bdee1cd0f2e6c89a8559acdeb44c163575">소스보기</a>
 
@@ -19,6 +20,7 @@
 # C++
 ### GakView based on SDL2
 <img src="./image/GakView_uml.png"><br>
+**설명**  
 이 전에 만들었던 뷰어에 태생적 한계를 느끼고 새로 만든 뷰어입니다.  
 ### 전과 달라진점?
 
@@ -31,7 +33,7 @@
 - **유지보수가 간편합니다!**  
 구조적으로 재설계되었기 때문입니다.
 
-제작기간 : 2일
+**제작기간** : 2일
 
 <a href="https://github.com/Gakgu/GakView.git">소스보기</a>
 
@@ -43,6 +45,7 @@
 
 ## 메모
 <img src="./image/memo.gif" width="300"><br>
+**설명**  
 개인적으로 사용할라고 만든 메모 프로그램입니다.  
 ### 주요 기능
 - **자동저장**  
@@ -50,18 +53,35 @@
 - **꾸미기**  
 memo.css의 스타일 시트를 사용하여 메모의 모습을 꾸밀 수 있습니다.  
 
-제작기간 : 2시간  
+**제작기간** : 2시간  
 
 <a href="https://gist.github.com/Gakgu/268384e67241b2ddd8b0c42ea4949797">소스보기</a>
 
 ## 바탕화면 부수기
 <img src="./image/background_breaker.gif" width="300"><br>
+**설명**  
 어린 시절 재미있게 했던 바탕화면 부수기입니다.  
 프로그램을 시작하면 화면이 정지하고 그 상태에서 클릭하면 화면이 깨집니다.
 
-제작기간 : 1시간
+**제작기간** : 1시간
 
 <a href="https://gist.github.com/Gakgu/4ed041dad46631483d6147d39ede9227">소스보기</a>
+
+***
+
+# Assambly
+## Gak OS boot-loader
+<img src="./image/boot_loader.gif" width="500"><br>
+**설명**  
+개인 OS를 가지고 싶어서 만든 부트로더입니다.  
+아직 실력이 부족해 부트로더까지밖에 못만들었지만 포기한 프로젝트는 아닙니다.  
+저에게 low-level에 대한 이해도를 많이 상승시켜준 프로젝트입니다.
+
+**제작기간**  
+nasm문법과 하드웨어 공부를 병행하며 만들었기 때문에 제작기간이
+얼마나 걸렸다. 라고 말하기 어렵습니다.
+
+<a href="https://gist.github.com/Gakgu/3a38e3f6175a6c317598f67c880aed20">소스보기</a>
 
 ***
 
