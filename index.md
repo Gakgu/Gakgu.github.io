@@ -5,16 +5,19 @@
 ***
 
 # 목록
+
+```
 1. C
-- 1.1 GakView based on GTK3
+  1.1 GakView based on GTK3
 2. C++
-- 2.1 GakView based on SDL2
+  2.1 GakView based on SDL2
 3. Python
-- 3.1 memo
-- 3.2 screen breaker
+  3.1 memo
+  3.2 screen breaker
 4. Assambly
-- 4.1 Gak OS bootloader
+  4.1 Gak OS bootloader
 5. Etc
+```
 
 # 1. C
 ### 1.1 GakView based on GTK3
