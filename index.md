@@ -7,18 +7,22 @@
 # 목록
 
 1. C  
-  1.1 GakView based on GTK3  
+  1.1. GakView based on GTK3  
 2. C++  
-  2.1 GakView based on SDL2  
+  2.1. GakView based on SDL2  
 3. Python  
-  3.1 memo  
-  3.2 screen breaker  
+  3.1. memo  
+  3.2. screen breaker  
 4. Assambly  
-  4.1 Gak OS bootloader  
-5. Etc  
+  4.1. Gak OS bootloader  
+5. Java  
+  5.1. Unity Games
+6. Etc  
+  6.1. Fire Detector
+  6.2. tamagotchi & young prince
 
 # 1. C
-### 1.1 GakView based on GTK3
+### 1.1. GakView based on GTK3
 <img src="./image/GakView_gtk3.gif"><br>
 **설명**  
 크로스 플랫폼 이미지 뷰어입니다.  
@@ -31,7 +35,7 @@
 ***
 
 # 2. C++
-### GakView based on SDL2
+### 2.1. GakView based on SDL2
 <img src="./image/GakView_uml.png"><br>
 **설명**  
 이 전에 만들었던 뷰어에 태생적 한계를 느끼고 새로 만든 뷰어입니다.  
@@ -57,21 +61,23 @@
 최근들어서 재미들린 언어입니다.
 생산성이 좋아 가벼운 마음으로 쓸 수 있어 좋습니다.
 
-## 3.1 메모
+## 3.1. 메모
 <img src="./image/memo.gif" width="300"><br>
 **설명**  
-개인적으로 사용할라고 만든 메모 프로그램입니다.  
-### 주요 기능
-- **자동저장**  
+개인적으로 사용할라고 만든 메모 프로그램입니다.  
+
+**주요 기능**
+
+- **자동 저장**  
 프로그램을 끄면 자동으로 memo.dat에 메모를 저장합니다.  
-- **꾸미기**  
+- **스타일 시트**  
 memo.css의 스타일 시트를 사용하여 메모의 모습을 꾸밀 수 있습니다.  
 
 **제작기간** : 2시간  
 
 <a href="https://gist.github.com/Gakgu/268384e67241b2ddd8b0c42ea4949797">소스보기</a>
 
-## 3.2 바탕화면 부수기
+## 3.2. 바탕화면 부수기
 <img src="./image/background_breaker.gif" width="300"><br>
 **설명**  
 어린 시절 재미있게 했던 바탕화면 부수기입니다.  
@@ -84,7 +90,7 @@ memo.css의 스타일 시트를 사용하여 메모의 모습을 꾸밀 수 있�
 ***
 
 # 4. Assambly
-## 4.1 Gak OS bootloader
+## 4.1. Gak OS bootloader
 <img src="./image/boot_loader.gif" width="500"><br>
 **설명**  
 개인 OS를 가지고 싶어서 만든 부트로더입니다.  
@@ -98,9 +104,23 @@ nasm문법과 하드웨어 공부를 병행하며 만들었기 때문에 제작�
 <a href="https://gist.github.com/Gakgu/3a38e3f6175a6c317598f67c880aed20">소스보기</a>
 
 ***
+# 5. Java
+## 5.1. Unity Games
+<img src="./image/gundam.gif" width="200">
+<img src="./image/happyday.gif" width="200">
+<img src="./image/miro.gif" width="200"><br>
+<img src="./image/world war x.gif" width="200">
+<img src="./image/shooting.gif" width="200"><br>
+**소개**  
+유니티로 만든 5가지 게임입니다.  
+각각 건담, 물고기, 미로, 좀비, 슈팅 게임입니다.
 
-# 5. Etc
-## 5.1 Fire Detector
+**제작기간** : 각각 1~7일
+
+***
+
+# 6. Etc
+## 6.1. Fire Detector
 <img src="./image/fire_detector_1.gif" height="200"><img src="./image/fire_detector_2.gif" height="200"><br>
 **설명**  
 센서에서 화재를 감지하면 알림을 띄워주는 어플리케이션입니다.  
@@ -116,8 +136,11 @@ tcp/ip로 연결했기 때문에 거리에 제한이 없습니다.
 **제작기간**  
 주어진 시간은 1년이었지만 실질적으로 만든 것은 2주 안팎이었습니다.
 
-## 5.2 Unity Games
-
-## 5.3
+## 6.2. tamagotchi & young prince
 <img src="./image/tamagotchi.png" height="150" width="150"><img src="./image/young_prince.gif" height="150" width="150"><br>
-Qt를 처음 접할 때 만들어본 것들입니다. 이 중 어린왕자는 C++로 제작되었습니다.
+**설명**  
+Qt를 처음 접할 때 만들어본 것들입니다.  
+- tamagotchi   : Python으로 qt를 처음 다뤄본 프로그램입니다.
+- young prince : C++로 Qt를 처음 다뤄본 프로그램입니다.
+
+**제작기간** : 1~3시간
