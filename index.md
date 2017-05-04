@@ -4,10 +4,22 @@
 
 ***
 
-# C
-### GakView based on GTK3
+# 목록
+1. C
+- 1.1 GakView based on GTK3
+2. C++
+- 2.1 GakView based on SDL2
+3. Python
+- 3.1 memo
+- 3.2 screen breaker
+4. Assambly
+- 4.1 Gak OS bootloader
+5. Etc
+
+# 1. C
+### 1.1 GakView based on GTK3
 <img src="./image/GakView_gtk3.gif"><br>
-**설명**
+**설명**  
 크로스 플랫폼 이미지 뷰어입니다.  
 작고 빠르며 여러 플랫폼에서 동일하게 작동하는 이미지 뷰어를 목표로 한 프로그램입니다.
 
@@ -17,12 +29,13 @@
 
 ***
 
-# C++
+# 2. C++
 ### GakView based on SDL2
 <img src="./image/GakView_uml.png"><br>
 **설명**  
-이 전에 만들었던 뷰어에 태생적 한계를 느끼고 새로 만든 뷰어입니다.  
-### 전과 달라진점?
+이 전에 만들었던 뷰어에 태생적 한계를 느끼고 새로 만든 뷰어입니다.  
+
+**달라진점**  
 
 - **네이티브 시스템적입니다!**  
 이 전의 GTK3은 리눅스 라이브러리 윈도우에서 실핼할 때 이질적인 느낌이 있었습니다.
@@ -39,7 +52,7 @@
 
 ***
 
-# Python
+# 3. Python
 최근들어서 재미들린 언어입니다.
 생산성이 좋아 가벼운 마음으로 쓸 수 있어 좋습니다.
 
@@ -69,8 +82,8 @@ memo.css의 스타일 시트를 사용하여 메모의 모습을 꾸밀 수 있�
 
 ***
 
-# Assambly
-## Gak OS boot-loader
+# 4. Assambly
+## Gak OS bootloader
 <img src="./image/boot_loader.gif" width="500"><br>
 **설명**  
 개인 OS를 가지고 싶어서 만든 부트로더입니다.  
@@ -85,6 +98,6 @@ nasm문법과 하드웨어 공부를 병행하며 만들었기 때문에 제작�
 
 ***
 
-# Etc
+# 5. Etc
 <img src="./image/tamagotchi.png" height="150" width="150"><img src="./image/young_prince.gif" height="150" width="150"><br>
 Qt를 처음 접할 때 만들어본 것들입니다. 이 중 어린왕자는 C++로 제작되었습니다.
