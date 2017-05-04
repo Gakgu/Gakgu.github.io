@@ -6,18 +6,16 @@
 
 # 목록
 
-```
-1. C
-  1.1 GakView based on GTK3
-2. C++
-  2.1 GakView based on SDL2
-3. Python
-  3.1 memo
-  3.2 screen breaker
-4. Assambly
-  4.1 Gak OS bootloader
-5. Etc
-```
+1. C  
+  1.1 GakView based on GTK3  
+2. C++  
+  2.1 GakView based on SDL2  
+3. Python  
+  3.1 memo  
+  3.2 screen breaker  
+4. Assambly  
+  4.1 Gak OS bootloader  
+5. Etc  
 
 # 1. C
 ### 1.1 GakView based on GTK3
@@ -59,7 +57,7 @@
 최근들어서 재미들린 언어입니다.
 생산성이 좋아 가벼운 마음으로 쓸 수 있어 좋습니다.
 
-## 메모
+## 3.1 메모
 <img src="./image/memo.gif" width="300"><br>
 **설명**  
 개인적으로 사용할라고 만든 메모 프로그램입니다.  
@@ -73,7 +71,7 @@ memo.css의 스타일 시트를 사용하여 메모의 모습을 꾸밀 수 있�
 
 <a href="https://gist.github.com/Gakgu/268384e67241b2ddd8b0c42ea4949797">소스보기</a>
 
-## 바탕화면 부수기
+## 3.2 바탕화면 부수기
 <img src="./image/background_breaker.gif" width="300"><br>
 **설명**  
 어린 시절 재미있게 했던 바탕화면 부수기입니다.  
@@ -86,7 +84,7 @@ memo.css의 스타일 시트를 사용하여 메모의 모습을 꾸밀 수 있�
 ***
 
 # 4. Assambly
-## Gak OS bootloader
+## 4.1 Gak OS bootloader
 <img src="./image/boot_loader.gif" width="500"><br>
 **설명**  
 개인 OS를 가지고 싶어서 만든 부트로더입니다.  
