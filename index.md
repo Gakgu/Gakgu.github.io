@@ -106,11 +106,12 @@ nasm문법과 하드웨어 공부를 병행하며 만들었기 때문에 제작�
 ***
 # 5. Java
 ## 5.1. Unity Games
-<img src="./image/gundam.gif" width="200">
-<img src="./image/happyday.gif" width="200">
-<img src="./image/miro.gif" width="200"><br>
-<img src="./image/world war x.gif" width="200">
-<img src="./image/shooting.gif" width="200"><br>
+<img src="./image/Unity Games.png" width="300" height="225">
+<img src="./image/world war x.gif" width="300" height="225"><br>
+<img src="./image/gundam.gif" width="300" height="225">
+<img src="./image/shooting.gif" width="300" height="225"><br>
+<img src="./image/happyday.gif" width="300" height="225">
+<img src="./image/miro.gif" width="300" height="225"><br>
 **소개**  
 유니티로 만든 5가지 게임입니다.  
 각각 건담, 물고기, 미로, 좀비, 슈팅 게임입니다.
