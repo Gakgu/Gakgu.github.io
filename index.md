@@ -1,6 +1,6 @@
 # 반갑습니다!
 이 페이지는 제가 만들어보거나 시도해봤던 **가시적인** 응용 프로그램들을 소개합니다.  
-나열된 **모든 응용 프로그램들**은 Windows와 Linux에서 작동하는 크로스 플랫폼입니다.
+나열된 **모든 응용 프로그램들**은 Windows와 Linux에서 작동하는 **크로스 플랫폼**입니다.
 
 ***
 
@@ -20,8 +20,10 @@
 [6. Etc](#6.)  
 &nbsp;&nbsp;&nbsp;&nbsp;[6.1. Fire Detector](#6.1.)  
 &nbsp;&nbsp;&nbsp;&nbsp;[6.2. tamagotchi & young prince](#6.2.)  
+&nbsp;&nbsp;&nbsp;&nbsp;[6.3. OpenGL & OpenAL Game](#6.3.)  
 
-# <a id="1.">1.1. C</a>
+
+# <a id="1.">1. C</a>
 ### <a id="1.1.">1.1. GakView based on GTK3</a>
 
 <img src="./image/GakView_gtk3.gif"><br>
@@ -148,3 +150,12 @@ Qt를 처음 접할 때 만들어본 것들입니다.
 - young prince : C++로 Qt를 처음 다뤄본 프로그램입니다.
 
 **제작기간** : 1~3시간
+
+## <a id="6.3.">6.3. OpenGL & OpenAL Game</a>
+<img src="./image/opengl.gif"><br>
+**설명**  
+그래픽 라이브러리인 OpenGL과 오디오 라이브러리인 OpenAL을 사용하여 만들었던 게임입니다.  
+.bmp와 .wav 파일의 포맷 구조에 직접적으로 접근하여 출력하였습니다.  
+파일 포맷 구조에 대해 잘 알게된 프로젝트입니다.
+
+**제작기간** : 4일
